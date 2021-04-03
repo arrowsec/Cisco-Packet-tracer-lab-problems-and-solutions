@@ -10,9 +10,11 @@
 	6) Configure the routers per the instructions in the diagram.
 	7) Verify that PCs can access cisco.com and facebook.com using their browsers
 
-	Created by David Bombal. 
+	This Problem is Created by David Bombal. 
 	Get more at http://davidbombal.com	
 
+   Solution - 
+   
     129.168.1.0/24 --> 4subets
 
     2^n     ->Subnets  - 2^2 = 4 
